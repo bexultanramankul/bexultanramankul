@@ -11,8 +11,8 @@
 ### About Me:
 I’m a software developer with experience in Spring and Go, specializing in server-side development with RESTful APIs, PostgreSQL, Redis, Kafka, and Docker. I prioritize clean, maintainable code and am currently diving deeper into Go, building projects like a URL Shortener, Event Driven systems, and News Feeds. I’m also passionate about AI and actively learning about neural networks.
 
-### Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bexultanramankul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bexultanramankul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bexultan.ramankul@gmail.com) 
+<!-- ### Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bexultanramankul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bexultanramankul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bexultan.ramankul@gmail.com) -->
 
 ### Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
