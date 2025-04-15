@@ -1,12 +1,12 @@
 ### About Me:
 I’m a software developer with experience in Spring and Go, specializing in server-side development with RESTful APIs, PostgreSQL, Redis, Kafka, and Docker. I prioritize clean, maintainable code and am currently diving deeper into Go, building projects like a URL Shortener, Event Driven systems, and News Feeds. I’m also passionate about AI and actively learning about neural networks.
 
-### Book:
+<!-- ### Book:
 <div>
     <img src="https://github.com/user-attachments/assets/3ddff769-3e92-44c3-87ee-394cf11e5de6" width="120" height="180" />
     <img src="https://github.com/user-attachments/assets/126da184-8adf-41db-ae81-73ec876d5dc1" width="120" height="180" />
     <img src="https://github.com/user-attachments/assets/3609d096-6d18-433a-a181-fa83d38278ae" width="120" height="180" />
-</div>
+</div> -->
 
 <!-- ### Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bexultanramankul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bexultanramankul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bexultan.ramankul@gmail.com) -->
