@@ -27,10 +27,10 @@ I’m a software developer with experience in Spring and Go, specializing in ser
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/excalidraw-%23FFFFFF?style=for-the-badge&logo=excalidraw&logoColor=%23ffffff&color=rgb(105%2C%20101%2C%20219))
 ![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-<!-- ![gRPC](https://img.shields.io/badge/grpc-%233D5B9E.svg?style=for-the-badge&logo=grpc&logoColor=white) -->
+![gRPC](https://img.shields.io/badge/grpc-%233D5B9E.svg?style=for-the-badge&logo=grpc&logoColor=white)
+<!-- ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
+<!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
 <!-- ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) -->
 <!-- ![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white) -->
 <!-- ![GORM](https://img.shields.io/badge/gorm-rgb(14%2C%20131%2C%20205)?style=for-the-badge) -->
