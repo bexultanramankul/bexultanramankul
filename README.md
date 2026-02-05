@@ -1,5 +1,8 @@
 ### About Me:
-I’m a software developer with experience in Spring and Go, specializing in server-side development with RESTful APIs, PostgreSQL, Redis, Kafka, and Docker. I prioritize clean, maintainable code and am currently diving deeper into Go, building projects like a URL Shortener, Event Driven systems, and News Feeds. I’m also passionate about AI and actively learning about neural networks.
+Go Backend Developer с опытом разработки REST API, микросервисов и CLI-инструментов.
+Оптимизировал существующие проекты, исправлял критические баги и внедрял автоматизацию
+процессов. Работаю с PostgreSQL, MongoDB, Redis, Kafka и AWS S3, создавая поддерживаемый и надежный
+код с тестированием и логированием.
 
 <!-- ### Book:
 <div>
